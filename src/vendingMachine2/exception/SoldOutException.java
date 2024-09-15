@@ -1,4 +1,4 @@
-package vendingMachine.exception;
+package vendingMachine2.exception;
 
 public class SoldOutException extends RuntimeException{
     private String message;

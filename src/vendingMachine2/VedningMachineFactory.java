@@ -1,4 +1,4 @@
-package vendingMachine;
+package vendingMachine2;
 
 public class VedningMachineFactory {
 

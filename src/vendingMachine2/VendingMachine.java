@@ -1,4 +1,4 @@
-package vendingMachine;
+package vendingMachine2;
 
 import java.util.List;
 

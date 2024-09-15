@@ -1,8 +1,8 @@
-package vendingMachine;
+package vendingMachine2;
 
-import vendingMachine.exception.NotFullPaidException;
-import vendingMachine.exception.NotSufficientChangeException;
-import vendingMachine.exception.SoldOutException;
+import vendingMachine2.exception.NotFullPaidException;
+import vendingMachine2.exception.NotSufficientChangeException;
+import vendingMachine2.exception.SoldOutException;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package vendingMachine;
+package vendingMachine2;
 
 public class Bucket<E1, E2> {
     //a parameterized class to hold two objects - kind of pair class
